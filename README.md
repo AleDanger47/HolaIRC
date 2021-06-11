@@ -1,2 +1,5 @@
-# HolaIRC
-Repositorio de prueba
+# Hola IRC
+
+Mi primer repositorio
+
+Me gustan los 🎮, 🍕 y  🎼
